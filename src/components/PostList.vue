@@ -4,7 +4,7 @@
   <div class="loading" v-if="isLoading">
     <img src="../assets/loading.gif" >
   </div>
-  <!--代表我門的主题帖子列表-->
+  <!--代表的主题帖子列表-->
   <div class="posts" v-else>
     <ul>
       <li>
